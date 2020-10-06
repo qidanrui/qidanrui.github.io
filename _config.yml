@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Danrui Qi's Homepage"
 title_separator          : "-"
 name                     : &name "Danrui Qi"
-description              : &description "Master of Engineering, School of Software, Tsinghua University"
+description              : &description "Ph.D student, Computer Science, Simon Fraser University"
 url                      : https://qidanrui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qidanrui.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Danrui Qi"
   avatar           : "photo.png"
-  bio              : "Master of Engineering, School of Software, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Ph.D student, Computer Science, Simon Fraser University"
+  location         : "Burnaby, B.C., Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "qdr17@mails.tsinghua.edu.cn"
+  email            : "dqi@sfu.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
