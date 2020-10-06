@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at School of Software in Tsinghua University, my supervisor is Professor [Shaoxu Song](http://ise.thss.tsinghua.edu.cn/sxsong/) .
+I am now a first-year Ph.D student at Database System Lab in Simon Fraser University, my supervisor is Professor [Jiannan Wang](http://www.cs.sfu.ca/~jnwang/) .
 
-I am now a visiting student at Database System Lab in Simon Fraser University, my supervisor is Professor [Jiannan Wang](http://www.cs.sfu.ca/~jnwang/) .
+I received my Master degree from Tsinghua University, Beijing, in June 2020.
 
 I received my Bachelor degree from Tsinghua University, Beijing in July 2017.
 

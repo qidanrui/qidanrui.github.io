@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in School of Software, Tsinghua University, 09.2013-07.2017
-* M.S. in School of Software, Tsinghua University, 09.2017-07.2020 (expected)
+* M.S. in School of Software, Tsinghua University, 09.2017-07.2020
+* Ph.D in Computer Science, Simon Fraser University, 09.2020-now
 
 Visiting experience
 ======
