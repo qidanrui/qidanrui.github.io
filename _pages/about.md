@@ -17,21 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm the fourth year student xxx.
- <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'></a>。
+I'm Danrui Qi, a 4th-year Ph.D. candidate at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). My research interests mainly focus on `good data for AI` and `AI for good data`, which include:
+- Automated data preparation, with a specific focus on the automatic augmentation of features for complex relational tables.
+- Text2SQL methodologies utilizing Large Language Models (LLMs).
+- Automated Machine Learning (AutoML), especially automating the feature preprocessing part in the AutoML workflow.
+- The application of Bayesian Optimization and Reinforcement Learning techniques in the realm of Data Preparation.
 
-My research interests include：
-- Automatic data preparation, especially automatic feature augmentation for complex relational tables
-- Text2SQL powered by LLMs
-- AutoML
-- Bayesian Optimization
+Recently, I'm also very interested in Business Intelligence powered by Large Language Models (LLMs).
+
+ <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'></a>。
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2020.09 - 2025.09 (expected)*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Ph.D. Candidate, Computer Science, Simon Fraser University, Burnaby, BC, Canada, under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/).
-- *2017.09 - 2020.07*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Master of Engineering, School of Software, Tsinghua University, Beijing, China, under the supervision of [Prof. Shaoxu Song](https://sxsong.github.io/).
-- *2013.09 - 2017.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Bachelor, School of Software, Tsinghua University, Beijing, China
+- *2020.09 - 2025.09 (expected)*, Ph.D. Candidate, Computer Science, Simon Fraser University, Burnaby, BC, Canada, under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/).
+- *2017.09 - 2020.07*, Master of Engineering, School of Software, Tsinghua University, Beijing, China, under the supervision of [Prof. Shaoxu Song](https://sxsong.github.io/).
+- *2013.09 - 2017.07*, Bachelor, School of Software, Tsinghua University, Beijing, China
  
 <span class='anchor' id='-lwzl'></span>
 
