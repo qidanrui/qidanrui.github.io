@@ -68,9 +68,9 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
-- *2023.09* `PhD Research Scholarship `at Simon Fraser University 
-- *2020.09* `Graduate Dean's Entrance (GDES)` at Simon Fraser University 
-- *2017.06* `Outstanding Graduate Thesis Award` at Tsinghua University
-- *2016.10* `National Inspirational Scholarship` at Tsinghua University
+- *2023.09*, PhD Research Scholarship at Simon Fraser University 
+- *2020.09*, Graduate Dean's Entrance (GDES) at Simon Fraser University 
+- *2017.06*, Outstanding Graduate Thesis Award at Tsinghua University
+- *2016.10*, National Inspirational Scholarship at Tsinghua University
 
 
