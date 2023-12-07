@@ -38,7 +38,6 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
----
 
 -	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." Under Review of ICDE 2024.
 [[paper]]() [[code]]() 
