@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# Biography
 
 I'm Danrui Qi, a 4th-year Ph.D. candidate at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). My research interests mainly focus on `good data for AI` and `AI for good data`, which include:
 - Automated data preparation, with a specific focus on the automatic augmentation of features for complex relational tables.
@@ -25,7 +26,7 @@ I'm Danrui Qi, a 4th-year Ph.D. candidate at Simon Fraser University under the s
 
 Recently, I'm also very interested in Business Intelligence powered by Large Language Models (LLMs).
 
- <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'></a>。
+ <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'></a>
 
 <span class='anchor' id='-xl'></span>
 
