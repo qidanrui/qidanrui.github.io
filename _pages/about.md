@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm the fourth year student xxx.
- <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citation"></a>。
+ <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'></a>。
 
 My research interests include：
 - Automatic data preparation, especially automatic feature augmentation for complex relational tables
