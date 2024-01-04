@@ -57,8 +57,8 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 # 💻 Open-Source Projects
 - *2020.7 - Present*, Main Contributor of [Dataprep](https://github.com/sfu-db/dataprep), which has `1.8k stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `661 stars`
-- *2023.09 - Present*, Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `8.9k stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `690 stars`
+- *2023.09 - Present*, Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `9.1k stars`
   
 <span class='anchor' id='-xshy'></span>
 
