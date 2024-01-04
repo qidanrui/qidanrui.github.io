@@ -39,6 +39,8 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 # 📝 Publications
 
+- Siqiao Xue, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang, Zhiping Zhang, Jianshan He, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, `Danrui Qi`, Hong Yi, Shaodong Liu, Faqiang Chen. "DB-GPT: Empowering Database Interactions with Private Large Language Models." arXiv preprint arXiv:2312.17449 (2023). [[paper]](https://arxiv.org/pdf/2312.17449.pdf) [[code]](https://github.com/eosphoros-ai/DB-GPT) [[demo]]( https://www.youtube.com/watch?v=KYs4nTDzEhk) 
+
 -	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." Under Review of ICDE 2024.
 [[paper]]() [[code]]() 
 
