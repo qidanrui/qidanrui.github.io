@@ -39,13 +39,13 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 # 📝 Publications
 
-- Siqiao Xue, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang, Zhiping Zhang, Jianshan He, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, `Danrui Qi`, Hong Yi, Shaodong Liu, Faqiang Chen. "DB-GPT: Empowering Database Interactions with Private Large Language Models." arXiv preprint arXiv:2312.17449 (2023). [[paper]](https://arxiv.org/pdf/2312.17449.pdf) [[code]](https://github.com/eosphoros-ai/DB-GPT) [[demo]]( https://www.youtube.com/watch?v=KYs4nTDzEhk) 
-
 -	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." Under Review of ICDE 2024.
 [[paper]]() [[code]]() 
 
 -	`Danrui Qi`, Jinglin Peng, Yongjun He, and Jiannan Wang. "Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data." In International Conference on Extending Database Technology (EDBT), 2024.
 [[paper]](https://arxiv.org/pdf/2310.02540.pdf) [[code]](https://github.com/qidanrui/Auto-FP) [[talk]]()
+
+- Siqiao Xue, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang, Zhiping Zhang, Jianshan He, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, `Danrui Qi`, Hong Yi, Shaodong Liu, Faqiang Chen. "DB-GPT: Empowering Database Interactions with Private Large Language Models." arXiv preprint arXiv:2312.17449 (2023). [[paper]](https://arxiv.org/pdf/2312.17449.pdf) [[code]](https://github.com/eosphoros-ai/DB-GPT) [[demo]]( https://www.youtube.com/watch?v=KYs4nTDzEhk) 
 
 -	Jinglin Peng, Weiyuan Wu, Jing Nathan Yan, `Danrui Qi`, Jeffrey M. Rzeszotarski, Jiannan Wang. "User Interfaces for Exploratory Data Analysis: A Survey of Open-Source and Commercial Tools." In IEEE Data Eng. Bull. 45(3): 116-128, 2022.
 [[paper]](http://sites.computer.org/debull/A22sept/p116.pdf) 
