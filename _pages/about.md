@@ -56,9 +56,9 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Open-Source Projects
-- *2020.7 - Present*, Main Contributor of [Dataprep](https://github.com/sfu-db/dataprep), which has `1.8k stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `690 stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `9.1k stars`
+- *2020.7 - Present*, Main Contributor of [Dataprep](https://github.com/sfu-db/dataprep), which has `1.9k stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `740 stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `9.4k stars`
   
 <span class='anchor' id='-xshy'></span>
 
@@ -70,6 +70,7 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
+- *2024.01*, Westak International Sales Inc. Scholarship
 - *2023.09, 2024.01*, PhD Research Scholarship at Simon Fraser University 
 - *2020.09*, Graduate Dean's Entrance (GDES) at Simon Fraser University 
 - *2017.06*, Outstanding Graduate Thesis Award at Tsinghua University
