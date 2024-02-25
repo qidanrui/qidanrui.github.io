@@ -26,8 +26,6 @@ I'm Danrui Qi, a 4th-year Ph.D. candidate at Simon Fraser University under the s
 
 Recently, I'm also very interested in Business Intelligence powered by Large Language Models (LLMs).
 
-![](https://komarev.com/ghpvc/?username=qidanrui)
-
  <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'></a>
 
 <span class='anchor' id='-xl'></span>
