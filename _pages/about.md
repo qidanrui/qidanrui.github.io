@@ -39,7 +39,7 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 # 📝 Publications
 
--	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." Under Review of ICDE 2024.
+-	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." ICDE 2024 (To Appear).
 [[paper]]() [[code]]() 
 
 -	`Danrui Qi`, Jinglin Peng, Yongjun He, and Jiannan Wang. "Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data." In International Conference on Extending Database Technology (EDBT), 2024.
