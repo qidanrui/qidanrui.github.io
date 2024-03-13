@@ -63,6 +63,7 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Services
+- Program Committee of CIKM 2024
 - External Reviewer of DASFAA 2024
 - External Reviewer of ICDE 2022, 2024
 - External Reviewer of CIKM 2023
