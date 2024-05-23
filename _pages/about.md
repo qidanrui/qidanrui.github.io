@@ -39,9 +39,9 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 # 📝 Publications
 
-- Siqiao Xue, `Danrui Qi`, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang et al. "Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models." arXiv preprint arXiv:2404.10209 (2024).
+- Siqiao Xue, `Danrui Qi`, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang et al. "Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models." arXiv preprint arXiv:2404.10209 (2024). [[paper]](https://arxiv.org/pdf/2404.10209)
   
-- `Danrui Qi`, and Jiannan Wang. "CleanAgent: Automating Data Standardization with LLM-based Agents." arXiv preprint arXiv:2403.08291 (2024).
+- `Danrui Qi`, and Jiannan Wang. "CleanAgent: Automating Data Standardization with LLM-based Agents." arXiv preprint arXiv:2403.08291 (2024). [[paper]](https://arxiv.org/pdf/2403.08291) [[code]](https://github.com/sfu-db/CleanAgent) 
   
 -	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." ICDE 2024.
 [[paper]](https://www.researchgate.net/publication/378927947_FeatAug_Automatic_Feature_Augmentation_From_One-to-Many_Relationship_Tables) [[code]](https://github.com/sfu-db/FeatAug) 
