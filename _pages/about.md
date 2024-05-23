@@ -39,11 +39,15 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 # 📝 Publications
 
--	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." ICDE 2024 (To Appear).
-[[paper]]() [[code]]() 
+- Siqiao Xue, `Danrui Qi`, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang et al. "Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models." arXiv preprint arXiv:2404.10209 (2024).
+  
+- `Danrui Qi`, and Jiannan Wang. "CleanAgent: Automating Data Standardization with LLM-based Agents." arXiv preprint arXiv:2403.08291 (2024).
+  
+-	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." ICDE 2024.
+[[paper]](https://www.researchgate.net/publication/378927947_FeatAug_Automatic_Feature_Augmentation_From_One-to-Many_Relationship_Tables) [[code]](https://github.com/sfu-db/FeatAug) 
 
 -	`Danrui Qi`, Jinglin Peng, Yongjun He, and Jiannan Wang. "Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data." In International Conference on Extending Database Technology (EDBT), 2024.
-[[paper]](https://arxiv.org/pdf/2310.02540.pdf) [[code]](https://github.com/qidanrui/Auto-FP) [[talk]]()
+[[paper]](https://arxiv.org/pdf/2310.02540.pdf) [[code]](https://github.com/qidanrui/Auto-FP) [[talk]](https://drive.google.com/file/d/12W-ABZ2umrGUabeFPjH4y1PEYSMGWOnt/view?usp=sharing)
 
 - Siqiao Xue, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang, Zhiping Zhang, Jianshan He, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, `Danrui Qi`, Hong Yi, Shaodong Liu, Faqiang Chen. "DB-GPT: Empowering Database Interactions with Private Large Language Models." arXiv preprint arXiv:2312.17449, 2023. [[paper]](https://arxiv.org/pdf/2312.17449.pdf) [[code]](https://github.com/eosphoros-ai/DB-GPT) [[demo]]( https://www.youtube.com/watch?v=KYs4nTDzEhk) 
 
@@ -55,10 +59,13 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 <span class='anchor' id='-gzsx'></span>
 
+# Experiences
+- *2024.05 - Present*, Research Intern at Microsoft Research
+  
 # 💻 Open-Source Projects
 - *2020.7 - Present*, Main Contributor of [Dataprep](https://github.com/sfu-db/dataprep), which has `1.9k stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `833 stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `9.9k stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `1.1k stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `11.3k stars`
   
 <span class='anchor' id='-xshy'></span>
 
