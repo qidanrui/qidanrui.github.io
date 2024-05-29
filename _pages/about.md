@@ -59,7 +59,7 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 <span class='anchor' id='-gzsx'></span>
 
-# Experiences
+# 🏛️ Experiences
 - *2024.05 - Present*, Research Intern at Microsoft Research
   
 # 💻 Open-Source Projects
