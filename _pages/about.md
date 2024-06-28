@@ -38,7 +38,8 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
-
+- Fan Zhou, Siqiao Xue, Danrui Qi, Wenhui Shi, Wang Zhao, Ganglin Wei, Hongyang Zhang et al. "DB-GPT-Hub: Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models." arXiv preprint arXiv:2406.11434 (2024).
+  
 - Siqiao Xue, `Danrui Qi`, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang et al. "Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models." VLDB 2024 (Demo Track). [[paper]](https://arxiv.org/pdf/2404.10209)
   
 - `Danrui Qi`, and Jiannan Wang. "CleanAgent: Automating Data Standardization with LLM-based Agents." arXiv preprint arXiv:2403.08291 (2024). [[paper]](https://arxiv.org/pdf/2403.08291) [[code]](https://github.com/sfu-db/CleanAgent) 
