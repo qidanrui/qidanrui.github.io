@@ -61,7 +61,7 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-gzsx'></span>
 
 # 🏛️ Experiences
-- *2024.05 - Present*, Research Intern at Microsoft Research, worked with [Dr. Yeye He](https://www.microsoft.com/en-us/research/people/yeyehe/)
+- *2024.05 - 2024.08*, Research Intern at Microsoft Research, worked with [Dr. Yeye He](https://www.microsoft.com/en-us/research/people/yeyehe/)
   
 # 💻 Open-Source Projects
 - *2020.7 - Present*, Main Contributor of [Dataprep](https://github.com/sfu-db/dataprep), which has `1.9k stars`
