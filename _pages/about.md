@@ -74,7 +74,7 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 - Reviewer of KDD 2025 ADS Track
 - Program Committee of IJCAI 2025 Survey Track
 - Reviewer of WACV 2025
-- Reviewer of ICLR 2025
+- Reviewer of ICLR 2025, ICLR 2025 DeLTa workshop
 - Program Committee of CIKM 2024
 - External Reviewer of DASFAA 2024
 - External Reviewer of ICDE 2022, 2024
