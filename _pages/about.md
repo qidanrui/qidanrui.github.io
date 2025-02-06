@@ -71,7 +71,7 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Services
-- Reviewer of KDD 2025 ADS Track
+- Reviewer of KDD 2025 Research & ADS Track
 - Program Committee of IJCAI 2025 Survey Track
 - Reviewer of WACV 2025
 - Reviewer of ICLR 2025, DeLTa@ICLR 2025, WMARK@ICLR 2025, VerifAI@ICLR 2025, FM-Wild@ICLR 2025
