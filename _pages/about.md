@@ -71,6 +71,7 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Services
+- Reviewer of SRW@ACL 2025
 - Shadow PC of VLDB 2026
 - Program Committee of CIKM 2025
 - Reviewer of KDD 2025 Research & ADS Track
