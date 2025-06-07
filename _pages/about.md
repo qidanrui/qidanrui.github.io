@@ -19,8 +19,8 @@ redirect_from:
 # Biography
 
 I'm Danrui Qi, a 5th-year Ph.D. candidate at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). I also work closely with [Prof. Zhengjie Miao](https://www.miaozhengjie.com/). My research interests mainly focus on `good data for AI` and `AI for good data`, which include:
-- Automated data preparation, with a specific focus on the automatic augmentation of features for complex relational tables.
-- Text2SQL methodologies utilizing Large Language Models (LLMs).
+- Automated data preparation, with a specific focus on self-envolving data science agent and the automatic augmentation of features for complex relational tables.
+- Large Language Model reasoning on table tasks, e.g. Text-to-SQL and TableQA.
 - Automated Machine Learning (AutoML), especially automating the feature preprocessing part in the AutoML workflow.
 - The application of Bayesian Optimization and Reinforcement Learning techniques in the realm of Data Preparation.
 
