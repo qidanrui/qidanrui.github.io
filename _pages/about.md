@@ -71,18 +71,10 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Services
-- Reviewer of SRW@ACL 2025
 - Shadow PC of VLDB 2026
-- Program Committee of CIKM 2025
-- Reviewer of KDD 2025 Research & ADS Track
-- Program Committee of IJCAI 2025 Survey Track
-- Reviewer of WACV 2025
-- Reviewer of ICLR 2025, DeLTa@ICLR 2025, WMARK@ICLR 2025, VerifAI@ICLR 2025, FM-Wild@ICLR 2025
-- Program Committee of CIKM 2024
-- External Reviewer of DASFAA 2024
-- External Reviewer of ICDE 2022, 2024
-- External Reviewer of CIKM 2023
-- Program Committee of ICDE 2022
+- Program Committee of CIKM 2025, IJCAI 2025 Survey Track, CIKM 2024, ICDE 2022
+- Reviewer of SRW@ACL 2025, KDD 2025 Research & ADS Track, WACV 2025, ICLR 2025, DeLTa@ICLR 2025, WMARK@ICLR 2025, VerifAI@ICLR 2025, FM-Wild@ICLR 2025
+- External Reviewer of DASFAA 2024, ICDE 2022, ICDE 2024, CIKM 2023
 
 <span class='anchor' id='-ryjx'></span>
 
