@@ -30,6 +30,11 @@ Recently, I'm also very interested in Business Intelligence powered by Large Lan
 
 <span class='anchor' id='-xl'></span>
 
+# Collaboration & Mentoring
+I welcome discussions on Automated Data Science & AI agents and am open to collaborations with researchers and industry professionals. I also enjoy mentoring students at various stages of their academic journey.
+
+If you’re interested in exploring potential collaborations or discussing recent developments in the field, feel free to schedule a conversation [here](https://calendly.com/qidanrui/30min).
+
 # 🎓 Education
 - *2020.09 - 2025.09 (expected)*, Ph.D. Candidate, Computer Science, Simon Fraser University, Burnaby, BC, Canada, under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/).
 - *2017.09 - 2020.07*, Master of Engineering, School of Software, Tsinghua University, Beijing, China, under the supervision of [Prof. Shaoxu Song](https://sxsong.github.io/).
