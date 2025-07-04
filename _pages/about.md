@@ -69,9 +69,10 @@ If you’re interested in exploring potential collaborations or discussing recen
 - *2024.05 - 2025.05*, Research Intern at Microsoft Research, worked with [Dr. Yeye He](https://www.microsoft.com/en-us/research/people/yeyehe/)
   
 # 💻 Open-Source Projects
-- *2020.7 - Present*, Main Contributor of [Dataprep](https://github.com/sfu-db/dataprep), which has `1.9k stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `1.1k stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `11.3k stars`
+- *2020.7 - Present*, Main Contributor of [Dataprep](https://github.com/sfu-db/dataprep), which has `2.2k stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `1.8k stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `16.9k stars`
+- *2024.01 - Present*, Main Contributor of [CleanAgent](https://github.com/sfu-db/CleanAgent), which has `28 stars`
   
 <span class='anchor' id='-xshy'></span>
 
