@@ -72,7 +72,8 @@ If you’re interested in exploring potential collaborations or discussing recen
 - *2020.7 - Present*, Main Contributor of [Dataprep](https://github.com/sfu-db/dataprep), which has `2.2k stars`
 - *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `1.8k stars`
 - *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `16.9k stars`
-- *2024.01 - Present*, Main Contributor of [CleanAgent](https://github.com/sfu-db/CleanAgent), which has `65 stars`
+- *2024.01 - Present*, Main Contributor of [CleanAgent](https://github.com/sfu-db/CleanAgent), which has `68 stars`
+- *2025.07 - Present*, Main Contributor of [MassGen](https://github.com/Leezekun/MassGen), which has `302 stars`
   
 <span class='anchor' id='-xshy'></span>
 
@@ -90,5 +91,6 @@ If you’re interested in exploring potential collaborations or discussing recen
 - *2020.09*, Graduate Dean's Entrance (GDES) at Simon Fraser University 
 - *2017.06*, Outstanding Graduate Thesis Award at Tsinghua University
 - *2016.10*, National Inspirational Scholarship at Tsinghua University
+
 
 
