@@ -79,7 +79,7 @@ If you’re interested in exploring potential collaborations or discussing recen
 
 # 🏛️ Services
 - Shadow PC of VLDB 2026
-- Program Committee of CIKM 2025, IJCAI 2025 Survey Track, CIKM 2024, ICDE 2022
+- Program Committee Member of WWW 2026, CIKM 2025, IJCAI 2025 Survey Track, CIKM 2024, ICDE 2022
 - Reviewer of ICLR 2026, KDD 2025 Research & ADS Track, WACV 2025, ICLR 2025
 - External Reviewer of DASFAA 2024, ICDE 2022, ICDE 2024, CIKM 2023
 
@@ -91,6 +91,7 @@ If you’re interested in exploring potential collaborations or discussing recen
 - *2020.09*, Graduate Dean's Entrance (GDES) at Simon Fraser University 
 - *2017.06*, Outstanding Graduate Thesis Award at Tsinghua University
 - *2016.10*, National Inspirational Scholarship at Tsinghua University
+
 
 
 
