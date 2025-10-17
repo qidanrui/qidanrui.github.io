@@ -43,6 +43,9 @@ If you’re interested in exploring potential collaborations or discussing recen
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
+
+- Aaron Xuxiang Tian, Ruofan Zhang, Jiayao Tang, Young Min Cho, Xueqian Li, Qiang Yi, Ji Wang, Zhunping Zhang, `Danrui Qi`, Sharath Chandra Guntuku, Lyle Ungar, Tianyu Shi and Chi Wang. “Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks.” (2025).
+  
 - Fan Zhou, Siqiao Xue, `Danrui Qi`, Wenhui Shi, Wang Zhao, Ganglin Wei, Hongyang Zhang et al. "DB-GPT-Hub: Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models." arXiv preprint arXiv:2406.11434 (2024). [[paper]](https://arxiv.org/pdf/2312.17449)
   
 - Siqiao Xue, `Danrui Qi`, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang et al. "Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models." VLDB 2024 (Demo Track). [[paper]](https://arxiv.org/pdf/2404.10209)
@@ -92,6 +95,7 @@ If you’re interested in exploring potential collaborations or discussing recen
 - *2020.09*, Graduate Dean's Entrance (GDES) at Simon Fraser University 
 - *2017.06*, Outstanding Graduate Thesis Award at Tsinghua University
 - *2016.10*, National Inspirational Scholarship at Tsinghua University
+
 
 
 
