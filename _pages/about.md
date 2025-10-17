@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Biography
 
-I'm Danrui Qi, a 5th-year Ph.D. candidate at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). I also work closely with [Prof. Zhengjie Miao](https://www.miaozhengjie.com/). My research interests mainly focus on `good data for AI` and `AI for good data`, which include:
+I'm Danrui Qi, a final-year Ph.D. candidate at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). I also work closely with [Prof. Zhengjie Miao](https://www.miaozhengjie.com/). My research interests mainly focus on `good data for AI` and `AI for good data`, which include:
 - Automated data preparation, with a specific focus on self-envolving data science agent and the automatic augmentation of features for complex relational tables.
 - Large Language Model reasoning on table tasks, e.g. Text-to-SQL and TableQA.
 - Automated Machine Learning (AutoML), especially automating the feature preprocessing part in the AutoML workflow.
@@ -95,6 +95,7 @@ If you’re interested in exploring potential collaborations or discussing recen
 - *2020.09*, Graduate Dean's Entrance (GDES) at Simon Fraser University 
 - *2017.06*, Outstanding Graduate Thesis Award at Tsinghua University
 - *2016.10*, National Inspirational Scholarship at Tsinghua University
+
 
 
 
