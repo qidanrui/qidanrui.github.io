@@ -18,22 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Biography
 
-I'm Danrui Qi, a final-year Ph.D. candidate at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). I also work closely with [Prof. Zhengjie Miao](https://www.miaozhengjie.com/). My research interests mainly focus on `good data for AI` and `AI for good data`, which include:
-- Automated data preparation, with a specific focus on self-envolving data science agent and the automatic augmentation of features for complex relational tables.
-- Large Language Model reasoning on table tasks, e.g. Text-to-SQL and TableQA.
-- Automated Machine Learning (AutoML), especially automating the feature preprocessing part in the AutoML workflow.
-- The application of Bayesian Optimization and Reinforcement Learning techniques in the realm of Data Preparation.
+I'm Danrui Qi, a final-year Ph.D. candidate at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). I also work closely with [Prof. Zhengjie Miao](https://www.miaozhengjie.com/).
 
-Recently, I'm also very interested in Business Intelligence powered by Large Language Models (LLMs).
+Recently I am passionate about agentic AI systems, a paradigm reshaping how we tackle complex, data-intensive problems across industries. My current work focuses on building agent-powered data systems and a self-improving multi-agent scaling system, designed to enable intelligent agents to reason, plan, and collaborate in automating real-world, data-centric tasks. Through recent research, I aim to advance agentic architectures and reimagine how we design data preparation workflow and interact with data systems.
+
+Prior to this, my research centered on automating data preparation pipelines, including automatic feature augmentation and preprocessing for tabular data. I leveraged techniques from Bayesian Optimization and AutoML to systematically address the challenges of feature engineering, demonstrating significant improvements in downstream machine learning performance across diverse datasets.
+
+**Impact**: In my PhD, I built the DB-GPT stack (17K+ GitHub stars) and Dataprep (2K+ GitHub stars) for democratizing data science and enabling natural language interactions with databases. These systems have been deployed across data science, business intelligence, automated ML, and database applications in diverse industries. My CleanAgent framework introduced one of the first LLM-based multi-agent systems for data standardization, demonstrating how agentic architectures can automate complex data preparation tasks that traditionally required extensive domain expertise and manual effort. My research techniques such as automatic feature augmentation (ICDE 2024) and automated feature preprocessing (EDBT 2024) have contributed to advancing AutoML workflows, while my contributions to MassGen (577 GitHub stars), a multi-agent scaling system, are advancing how intelligent systems collaborate to solve complex real-world tasks at scale.
 
  <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'></a>
 
 <span class='anchor' id='-xl'></span>
-
-# Collaboration & Mentoring
-I welcome discussions on Automated Data Science & AI agents and am open to collaborations with researchers and industry professionals. I also enjoy mentoring students at various stages of their academic journey.
-
-If you’re interested in exploring potential collaborations or discussing recent developments in the field, feel free to schedule a conversation [here](https://calendly.com/qidanrui/30min).
 
 # 🎓 Education
 - *2020.09 - 2025.09 (expected)*, Ph.D. Candidate, Computer Science, Simon Fraser University, Burnaby, BC, Canada, under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/).
@@ -44,7 +39,9 @@ If you’re interested in exploring potential collaborations or discussing recen
 
 # 📝 Publications
 
-- Aaron Xuxiang Tian, Ruofan Zhang, Jiayao Tang, Young Min Cho, Xueqian Li, Qiang Yi, Ji Wang, Zhunping Zhang, `Danrui Qi`, Sharath Chandra Guntuku, Lyle Ungar, Tianyu Shi and Chi Wang. “Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks.” (2025).
+- Arijit Khan, Yuyu Luo, M. Tamer Ozsu, `Danrui Qi`, and Jiannan Wang. "Second International Workshop on LLM+Vector Data: Agentic RAG Edition." ICDE 2026.
+
+- Aaron Xuxiang Tian, Ruofan Zhang, Jiayao Tang, Young Min Cho, Xueqian Li, Qiang Yi, Ji Wang, Zhunping Zhang, `Danrui Qi`, Sharath Chandra Guntuku, Lyle Ungar, Tianyu Shi and Chi Wang. "Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks." (2025).
   
 - Fan Zhou, Siqiao Xue, `Danrui Qi`, Wenhui Shi, Wang Zhao, Ganglin Wei, Hongyang Zhang et al. "DB-GPT-Hub: Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models." arXiv preprint arXiv:2406.11434 (2024). [[paper]](https://arxiv.org/pdf/2312.17449)
   
