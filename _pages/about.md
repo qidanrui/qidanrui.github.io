@@ -39,29 +39,31 @@ Prior to this, my research centered on automating data preparation pipelines, in
 
 # 📝 Publications
 
-- Arijit Khan, Yuyu Luo, M. Tamer Ozsu, `Danrui Qi`, and Jiannan Wang. "Second International Workshop on LLM+Vector Data: Agentic RAG Edition." ICDE 2026.
+## Published Papers
 
-- Aaron Xuxiang Tian, Ruofan Zhang, Jiayao Tang, Young Min Cho, Xueqian Li, Qiang Yi, Ji Wang, Zhunping Zhang, `Danrui Qi`, Sharath Chandra Guntuku, Lyle Ungar, Tianyu Shi and Chi Wang. "Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks." (2025).
-  
-- Fan Zhou, Siqiao Xue, `Danrui Qi`, Wenhui Shi, Wang Zhao, Ganglin Wei, Hongyang Zhang et al. "DB-GPT-Hub: Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models." arXiv preprint arXiv:2406.11434 (2024). [[paper]](https://arxiv.org/pdf/2312.17449)
-  
-- Siqiao Xue, `Danrui Qi`, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang et al. "Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models." VLDB 2024 (Demo Track). [[paper]](https://arxiv.org/pdf/2404.10209)
-  
-- `Danrui Qi`, Zhengjie Miao and Jiannan Wang. "CleanAgent: Automating Data Standardization with LLM-based Agents." DATAI@VLDB 2025. [[paper]](https://arxiv.org/pdf/2403.08291) [[code]](https://github.com/sfu-db/CleanAgent) 
-  
--	`Danrui Qi`, Weiling Zheng, and Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." ICDE 2024.
-[[paper]](https://www.researchgate.net/publication/378927947_FeatAug_Automatic_Feature_Augmentation_From_One-to-Many_Relationship_Tables) [[code]](https://github.com/sfu-db/FeatAug) 
+- Arijit Khan, Yuyu Luo, M. Tamer Ozsu, `Danrui Qi`, Jiannan Wang. "Second International Workshop on LLM+Vector Data: Agentic RAG Edition." **ICDE 2026**.
 
--	`Danrui Qi`, Jinglin Peng, Yongjun He, and Jiannan Wang. "Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data." In International Conference on Extending Database Technology (EDBT), 2024.
-[[paper]](https://arxiv.org/pdf/2310.02540.pdf) [[code]](https://github.com/qidanrui/Auto-FP) [[talk]](https://drive.google.com/file/d/12W-ABZ2umrGUabeFPjH4y1PEYSMGWOnt/view?usp=sharing)
+- `Danrui Qi`, Jiannan Wang. "CleanAgent: Automating Data Standardization with LLM-based Agents." **DataAI@VLDB 2025**. [[paper]](https://arxiv.org/pdf/2403.08291) [[code]](https://github.com/sfu-db/CleanAgent)
 
-- Siqiao Xue, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang, Zhiping Zhang, Jianshan He, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, `Danrui Qi`, Hong Yi, Shaodong Liu, Faqiang Chen. "DB-GPT: Empowering Database Interactions with Private Large Language Models." arXiv preprint arXiv:2312.17449, 2023. [[paper]](https://arxiv.org/pdf/2312.17449.pdf) [[code]](https://github.com/eosphoros-ai/DB-GPT) [[demo]]( https://www.youtube.com/watch?v=KYs4nTDzEhk) 
+-	`Danrui Qi`, Weiling Zheng, Jiannan Wang. "FeatAug: Automatic Feature Augmentation From One-to-Many Relationship Tables." **ICDE 2024**. [[paper]](https://www.researchgate.net/publication/378927947_FeatAug_Automatic_Feature_Augmentation_From_One-to-Many_Relationship_Tables) [[code]](https://github.com/sfu-db/FeatAug)
 
--	Jinglin Peng, Weiyuan Wu, Jing Nathan Yan, `Danrui Qi`, Jeffrey M. Rzeszotarski, Jiannan Wang. "User Interfaces for Exploratory Data Analysis: A Survey of Open-Source and Commercial Tools." In IEEE Data Eng. Bull. 45(3): 116-128, 2022.
-[[paper]](http://sites.computer.org/debull/A22sept/p116.pdf) 
+-	`Danrui Qi`, Jinglin Peng, Yongjun He, Jiannan Wang. "Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data." **EDBT 2024**. [[paper]](https://arxiv.org/pdf/2310.02540.pdf) [[code]](https://github.com/qidanrui/Auto-FP) [[talk]](https://drive.google.com/file/d/12W-ABZ2umrGUabeFPjH4y1PEYSMGWOnt/view?usp=sharing)
 
--	`Danrui Qi`. "On concise explanations of non-answers over big data." In Proceedings of the 2017 ACM International Conference on Management of Data (SIGMOD Student Research Competition), pp. 10-12. 2017.
-[[paper]](https://dl.acm.org/doi/abs/10.1145/3055167.3055180)
+- Siqiao Xue, `Danrui Qi`, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang et al. "Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models." **Demonstration@VLDB 2024**. [[paper]](https://arxiv.org/pdf/2404.10209)
+
+-	Jinglin Peng, Weiyuan Wu, Jing Nathan Yan, `Danrui Qi`, Jeffrey M. Rzeszotarski, Jiannan Wang. "User Interfaces for Exploratory Data Analysis: A Survey of Open-Source and Commercial Tools." **IEEE Data Eng. Bull.** 45(3): 116-128, 2022. [[paper]](http://sites.computer.org/debull/A22sept/p116.pdf)
+
+-	`Danrui Qi`. "On concise explanations of non-answers over big data." **SRC@SIGMOD 2017**. [[paper]](https://dl.acm.org/doi/abs/10.1145/3055167.3055180)
+
+## Preprints & Drafts
+
+- Aaron Xuxiang Tian, Ruofan Zhang, Jiayao Tang, Young Min Cho, Xueqian Li, Qiang Yi, Ji Wang, Zhunping Zhang, `Danrui Qi`, Sharath Chandra Guntuku, Lyle Ungar, Tianyu Shi and Chi Wang. "Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks." **arXiv 2025**.
+
+- `Danrui Qi` with Microsoft Research collaborators. "TABLE-REDUCER: General-Purpose Models for Table Context Reduction in Diverse Table Task." **draft 2025**.
+
+- Fan Zhou, Siqiao Xue, `Danrui Qi`, Wenhui Shi, Wang Zhao, Ganglin Wei, Hongyang Zhang et al. "DB-GPT-Hub: Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models." **arXiv 2024**. [[paper]](https://arxiv.org/pdf/2312.17449)
+
+- Siqiao Xue, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang, Zhiping Zhang, Jianshan He, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, `Danrui Qi`, Hong Yi, Shaodong Liu, Faqiang Chen. "DB-GPT: Empowering Database Interactions with Private Large Language Models." **arXiv 2023**. [[paper]](https://arxiv.org/pdf/2312.17449.pdf) [[code]](https://github.com/eosphoros-ai/DB-GPT) [[demo]](https://www.youtube.com/watch?v=KYs4nTDzEhk)
 
 <span class='anchor' id='-gzsx'></span>
 
