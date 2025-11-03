@@ -3,5 +3,8 @@ main:
   - title: "Home"
     url: "qidanrui.github.io"
 
+  - title: "Blog"
+    url: "/blog/"
+
   - title: "Resume"
     url: "/files/danrui_cv2.pdf"
