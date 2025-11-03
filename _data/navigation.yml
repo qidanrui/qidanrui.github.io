@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: "qidanrui.github.io"
+    url: "/"
 
   - title: "Blog"
     url: "/blog/"
