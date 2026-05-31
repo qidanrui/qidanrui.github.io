@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Biography
 
-I'm Danrui Qi, a final-year Ph.D. candidate at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). I also work closely with [Prof. Zhengjie Miao](https://www.miaozhengjie.com/).
+I'm Danrui Qi, a senior researcher of Microsoft Research Vancouver. I got my Ph.D. degree at Simon Fraser University under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). I also work closely with [Prof. Zhengjie Miao](https://www.miaozhengjie.com/).
 
 Recently I am passionate about agentic AI systems, a paradigm reshaping how we tackle complex, data-intensive problems across industries. My current work focuses on building agent-powered data systems and a self-improving multi-agent scaling system, designed to enable intelligent agents to reason, plan, and collaborate in automating real-world, data-centric tasks. Through recent research, I aim to advance agentic architectures and reimagine how we design data preparation workflow and interact with data systems.
 
@@ -30,8 +30,12 @@ Prior to this, my research centered on automating data preparation pipelines, in
 
 <span class='anchor' id='-xl'></span>
 
+# 🏛️ Experiences
+- *2026.03 - now*, Senior Researcher at Microsoft Research Vancouver.
+- *2024.05 - 2025.05*, Research Intern at Microsoft Research, worked with [Dr. Yeye He](https://www.microsoft.com/en-us/research/people/yeyehe/)
+
 # 🎓 Education
-- *2020.09 - 2025.09 (expected)*, Ph.D. Candidate, Computer Science, Simon Fraser University, Burnaby, BC, Canada, under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/).
+- *2020.09 - 2026.01*, Ph.D. Candidate, Computer Science, Simon Fraser University, Burnaby, BC, Canada, under the supervision of [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/).
 - *2017.09 - 2020.07*, Master of Engineering, School of Software, Tsinghua University, Beijing, China, under the supervision of [Prof. Shaoxu Song](https://sxsong.github.io/).
 - *2013.09 - 2017.07*, Bachelor, School of Software, Tsinghua University, Beijing, China
  
@@ -66,9 +70,6 @@ Prior to this, my research centered on automating data preparation pipelines, in
 - Siqiao Xue, Caigao Jiang, Wenhui Shi, Fangyin Cheng, Keting Chen, Hongjun Yang, Zhiping Zhang, Jianshan He, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, `Danrui Qi`, Hong Yi, Shaodong Liu, Faqiang Chen. "DB-GPT: Empowering Database Interactions with Private Large Language Models." **arXiv 2023**. [[paper]](https://arxiv.org/pdf/2312.17449.pdf) [[code]](https://github.com/eosphoros-ai/DB-GPT) [[demo]](https://www.youtube.com/watch?v=KYs4nTDzEhk)
 
 <span class='anchor' id='-gzsx'></span>
-
-# 🏛️ Experiences
-- *2024.05 - 2025.05*, Research Intern at Microsoft Research, worked with [Dr. Yeye He](https://www.microsoft.com/en-us/research/people/yeyehe/)
   
 # 💻 Open-Source Projects
 - *2020.7 - Present*, Founder Member and Maintainer of [Dataprep](https://github.com/sfu-db/dataprep), which has `2.3k stars`
@@ -80,9 +81,9 @@ Prior to this, my research centered on automating data preparation pipelines, in
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Services
-- Workshop Co-Chair of LLM+Vector Data@ICDE 2026
+- Program Committee Member of ICDE 2027, CIKM 2027, WWW 2026, CIKM 2025, IJCAI 2025 Survey Track, CIKM 2024, ICDE 2022
 - Shadow PC of VLDB 2026
-- Program Committee Member of WWW 2026, CIKM 2025, IJCAI 2025 Survey Track, CIKM 2024, ICDE 2022
+- Workshop Co-Chair of LLM+Vector Data@ICDE 2026
 - Reviewer of KDD 2026 ADS Track, IJCAI 2026 Survey Track, TKDE, ICLR 2026, KDD 2025 Research & ADS Track, WACV 2025, ICLR 2025
 - External Reviewer of DASFAA 2024, ICDE 2022, ICDE 2024, CIKM 2023
 
