@@ -24,7 +24,7 @@ Recently I am passionate about agentic AI systems, a paradigm reshaping how we t
 
 Prior to this, my research centered on automating data preparation pipelines, including automatic feature augmentation and preprocessing for tabular data. I leveraged techniques from Bayesian Optimization and AutoML to systematically address the challenges of feature engineering, demonstrating significant improvements in downstream machine learning performance across diverse datasets.
 
-**Impact**: In my PhD, I built the DB-GPT stack (17K+ GitHub stars) and Dataprep (2K+ GitHub stars) for democratizing data science and enabling natural language interactions with databases. These systems have been deployed across data science, business intelligence, automated ML, and database applications in diverse industries. My CleanAgent framework introduced one of the first LLM-based multi-agent systems for data standardization, demonstrating how agentic architectures can automate complex data preparation tasks that traditionally required extensive domain expertise and manual effort. My research techniques such as automatic feature augmentation (ICDE 2024) and automated feature preprocessing (EDBT 2024) have contributed to advancing AutoML workflows, while my contributions to MassGen (577 GitHub stars), a multi-agent scaling system, are advancing how intelligent systems collaborate to solve complex real-world tasks at scale.
+**Impact**: In my PhD, I built the DB-GPT stack (19K+ GitHub stars) and Dataprep (2K+ GitHub stars) for democratizing data science and enabling natural language interactions with databases. These systems have been deployed across data science, business intelligence, automated ML, and database applications in diverse industries. My CleanAgent framework introduced one of the first LLM-based multi-agent systems for data standardization, demonstrating how agentic architectures can automate complex data preparation tasks that traditionally required extensive domain expertise and manual effort. My research techniques such as automatic feature augmentation (ICDE 2024) and automated feature preprocessing (EDBT 2024) have contributed to advancing AutoML workflows, while my contributions to MassGen (1.1k GitHub stars), a multi-agent scaling system, are advancing how intelligent systems collaborate to solve complex real-world tasks at scale.
 
  <a href='https://scholar.google.com/citations?user=ah4B4xIAAAAJ'></a>
 
@@ -75,10 +75,10 @@ Prior to this, my research centered on automating data preparation pipelines, in
   
 # 💻 Open-Source Projects
 - *2020.7 - Present*, Founder Member and Maintainer of [Dataprep](https://github.com/sfu-db/dataprep), which has `2.3k stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `1.8k stars`
-- *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `17.5k stars`
-- *2024.01 - Present*, Founder of [CleanAgent](https://github.com/sfu-db/CleanAgent), which has `70 stars`
-- *2025.07 - Present*, Founder Member and Maintainer of [MassGen](https://github.com/Leezekun/MassGen), which has `577 stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub), which has `1.9k stars`
+- *2023.09 - Present*, Main Contributor of [DB-GPT](https://github.com/eosphoros-ai/DB-GPT), which has `19.5k stars`
+- *2024.01 - Present*, Founder of [CleanAgent](https://github.com/sfu-db/CleanAgent), which has `75 stars`
+- *2025.07 - Present*, Founder Member and Maintainer of [MassGen](https://github.com/Leezekun/MassGen), which has `1.1k stars`
   
 <span class='anchor' id='-xshy'></span>
 
