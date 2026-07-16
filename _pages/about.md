@@ -61,6 +61,8 @@ Prior to this, my research centered on automating data preparation pipelines, in
 
 ## Preprints & Drafts
 
+- Zhongxin Guo, `Danrui Qi`, Hanwen Gu, Peng Cheng, and Yongqiang Xiong. "SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills." **arXiv 2026**.
+  
 - Aaron Xuxiang Tian, Ruofan Zhang, Jiayao Tang, Young Min Cho, Xueqian Li, Qiang Yi, Ji Wang, Zhunping Zhang, `Danrui Qi`, Sharath Chandra Guntuku, Lyle Ungar, Tianyu Shi and Chi Wang. "Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks." **arXiv 2025**.
 
 - `Danrui Qi` with Microsoft Research collaborators. "TABLE-REDUCER: General-Purpose Models for Table Context Reduction in Diverse Table Task." **draft 2025**.
