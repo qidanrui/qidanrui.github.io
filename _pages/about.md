@@ -44,7 +44,8 @@ Prior to this, my research centered on automating data preparation pipelines, in
 # 📝 Publications
 
 ## Published Papers
-
+- Zhongxin Guo, `Danrui Qi`, Hanwen Gu, Peng Cheng, and Yongqiang Xiong. "SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills." **EMNLP 2026 Findings**.
+  
 - Arijit Khan, Yuyu Luo, M. Tamer Ozsu, `Danrui Qi`, Jiannan Wang. "Second International Workshop on LLM+Vector Data: Agentic RAG Edition." **ICDE 2026**.
 
 - `Danrui Qi`, Jiannan Wang. "CleanAgent: Automating Data Standardization with LLM-based Agents." **DataAI@VLDB 2025**. [[paper]](https://arxiv.org/pdf/2403.08291) [[code]](https://github.com/sfu-db/CleanAgent)
@@ -60,8 +61,6 @@ Prior to this, my research centered on automating data preparation pipelines, in
 -	`Danrui Qi`. "On concise explanations of non-answers over big data." **SRC@SIGMOD 2017**. [[paper]](https://dl.acm.org/doi/abs/10.1145/3055167.3055180)
 
 ## Preprints & Drafts
-
-- Zhongxin Guo, `Danrui Qi`, Hanwen Gu, Peng Cheng, and Yongqiang Xiong. "SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills." **arXiv 2026**.
   
 - Aaron Xuxiang Tian, Ruofan Zhang, Jiayao Tang, Young Min Cho, Xueqian Li, Qiang Yi, Ji Wang, Zhunping Zhang, `Danrui Qi`, Sharath Chandra Guntuku, Lyle Ungar, Tianyu Shi and Chi Wang. "Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks." **arXiv 2025**.
 
